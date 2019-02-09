@@ -1,0 +1,28 @@
+add_namespace = USA
+
+# Border Skirmish with the Japanese
+country_event = {
+	id = USA.1
+	title = USA.1.t
+	desc = USA.1.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = no
+
+	trigger = {
+	   tag = USA
+	   AND = {
+	       date > 1936.1.2
+	    }
+	}       
+
+	mean_time_to_happen = {days = 1
+	}
+
+	option = { 
+		name = okay
+		ai_chance = { factor = 100 }
+		release = JAC
+		}
+	}
+}
