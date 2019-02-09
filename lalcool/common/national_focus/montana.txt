@@ -97,5 +97,44 @@ focus_tree = {
 				add_ideas = jsicko_mode
 		}
 	}
+	
+	focus = {
+		id = declare_usa
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = sick_mode }
+		x = 1
+		y = 5
+		
+		available = {
+			is_puppet = no
+			has_army_manpower = { size > 1000000 }
+		}
+		cost = 1
 
-}
+		available_if_capitulated = yes
+
+		completion_reward = {
+			create_wargoal = {
+					type = take_state_focus
+					target = USA
+					generator = { 375 }
+				}
+			}
+		}
+		
+	focus = {
+		id = naval_boost
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = declare_usa }
+		x = 1
+		y = 6
+		
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+				add_ideas = take_seas
+			}
+		}
+	}
