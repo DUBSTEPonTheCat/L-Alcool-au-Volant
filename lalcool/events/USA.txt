@@ -1,6 +1,5 @@
 add_namespace = USA
 
-# Border Skirmish with the Japanese
 country_event = {
 	id = USA.1
 	title = USA.1.t
@@ -13,6 +12,7 @@ country_event = {
 	   tag = USA
 	   AND = {
 	       date > 1936.1.2
+	       date < 1936.1.11
 	    }
 	}       
 
@@ -20,8 +20,9 @@ country_event = {
 	}
 
 	option = { 
-		name = okay
+		name = OhShit
 		ai_chance = { factor = 100 }
 		release = JAC
 		}
 	}
+}
