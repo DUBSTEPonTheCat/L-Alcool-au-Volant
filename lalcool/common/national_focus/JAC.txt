@@ -9,8 +9,8 @@ focus_tree = {
 	reset_on_civilwar = no
 
 	focus = {
-		id = shaggy_descends
-		icon = focus_generic_provoke_border_clashes
+		id = jacob_ascends
+		icon = extra_tech_slot
 		x = 1
 		y = 0
 		cost = 5
@@ -26,7 +26,7 @@ focus_tree = {
 			add_tech_bonus = {
 				#call event to inform people of border conflicts
 			}
-			add_ideas = prophets_of_shaggy
+			add_ideas = prophets_of_jacob
 			add_war_support = 1
 			add_stability = 1
 			
@@ -34,9 +34,9 @@ focus_tree = {
 	}
 
 	focus = {
-		id = annex_can
+		id = living_space
 		icon = focus_generic_provoke_border_clashes
-		prerequisite = { focus = shaggy_descends }
+		prerequisite = { focus = jacob_ascends }
 		x = 1
 		y = 1
 		
