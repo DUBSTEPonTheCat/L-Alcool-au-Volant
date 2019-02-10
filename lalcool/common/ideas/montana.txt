@@ -17,7 +17,7 @@ ideas = {
 			picture = generic_fascism_drift_bonus
 			
 			modifier = {
-				fascism_drift = 1
+				fascism_drift = 100
 				fascism_acceptance = 100
 				political_power_gain = 10
 				justify_war_goal_time = -1
@@ -149,9 +149,7 @@ ideas = {
 			
 			modifier = {
 				amphibious_invasion = 10
-				industrial_capacity_dockyard = 10
-				production_speed_dockyard_factor = 2
-				naval_coordination = .5					
+				industrial_capacity_dockyard = 3
 			}
 		}
 	}
