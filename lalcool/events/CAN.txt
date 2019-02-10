@@ -1,0 +1,28 @@
+add_namespace = CAN
+
+country_event = {
+	id = CAN.1
+	title = CAN.1.t
+	desc = CAN.1.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = no
+
+	trigger = {
+	   tag = CAN
+	   AND = {
+	       date > 1936.5.15
+	       date < 1936.5.30
+		}
+	}       
+
+	mean_time_to_happen = {days = 1
+	}
+
+	option = { 
+		name = We have failed them
+		ai_chance = { factor = 100 }
+		annex_country = { target = ENG transfer_troops = yes }
+		}
+	}
+}
