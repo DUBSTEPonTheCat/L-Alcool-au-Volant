@@ -41,12 +41,21 @@ create_country_leader = {
 	desc = "POLITICS_KING_ZOG_DESC"
 	picture = "Montana_Leader.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = Liberalism
 	traits = {
 		#
 	}
 }
 
+create_country_leader = {
+    name = "King jacob of 5 hour energy"
+    picture = "Montana_fascist_Leader.dds"
+    expire = "1965.1.1"
+    ideology = Nazism
+    traits = {
+        #
+    }
+}       
 #create_field_marshal = {
 #	name = "Xhemal Aranitasi"
 #	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"

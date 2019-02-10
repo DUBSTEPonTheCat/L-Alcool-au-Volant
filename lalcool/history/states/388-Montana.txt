@@ -2,23 +2,16 @@
 state={
 	id=388
 	name="STATE_388"
-	manpower = 25000000
-	state_category = megalopolis
+	manpower = 537605
+	state_category = rural
 	resources={
-		oil=100
-		aluminium=100
-		rubber=100
-		tungsten=100 # was: 16
-		steel=100
-		chromium=100
+		tungsten=11 # was: 16
 	}
 
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 10
-			industrial_complex = 5
-			arms_factory = 5
+			infrastructure = 4
 		}
 		add_core_of = USA
 		add_core_of = JAC
