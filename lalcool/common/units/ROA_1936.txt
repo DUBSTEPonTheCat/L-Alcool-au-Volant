@@ -1,0 +1,91 @@
+units = {
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}
+
+    division = {
+        name = "Infantry"
+        location = 365
+        division_template = "Infantry"
+        start_equipment_factor = 1.0
+    }
+
+}

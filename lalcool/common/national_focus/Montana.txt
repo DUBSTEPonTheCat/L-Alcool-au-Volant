@@ -1,0 +1,140 @@
+focus_tree = {
+	id = montana_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 11
+			tag = JAC
+		}
+	}
+	
+	default = no
+	reset_on_civilwar = no
+
+	focus = {
+		id = jacob_ascends
+		icon = extra_tech_slot
+		x = 1
+		y = 0
+		cost = 5
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			add_ideas = prophets_of_jacob
+			add_ideas = jacob_power
+			add_war_support = 1
+			add_stability = 1
+			
+		}
+	}
+
+	focus = {
+		id = living_space
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = jacob_ascends }
+		x = 1
+		y = 1
+		
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			annex_country = { 
+			target = CAN 
+			transfer_troops = yes
+		}
+		}
+	}
+
+	focus = {
+		id = home_front
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = living_space }
+		x = 1
+		y = 2
+		
+		cost = 5
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+				add_ideas = front_home
+		}
+	}
+
+	focus = {
+		id = bovine
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = home_front }
+		x = 1
+		y = 3
+		
+		cost = 5
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+				add_ideas = jbovine
+		}
+	}
+	
+	focus = {
+		id = sicko_mode
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = bovine }
+		x = 1
+		y = 4
+		
+		cost = 5
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+				add_ideas = jsicko_mode
+		}
+	}
+	
+	focus = {
+		id = declare_usa
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = sick_mode }
+		x = 1
+		y = 5
+		
+		available = {
+			is_puppet = no
+			has_army_manpower = { size > 1000000 }
+		}
+		cost = 1
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+			create_wargoal = {
+					type = take_state_focus
+					target = USA
+					generator = { 375 }
+				}
+			}
+		}
+		
+	focus = {
+		id = naval_boost
+		icon = focus_generic_provoke_border_clashes
+		prerequisite = { focus = declare_usa }
+		x = 1
+		y = 6
+		
+		cost = 10
+
+		available_if_capitulated = yes
+
+		completion_reward = {
+				add_ideas = take_seas
+			}
+		}
+	}

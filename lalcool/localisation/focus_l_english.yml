@@ -2065,7 +2065,3 @@
  bovine_desc:0 "Jacob incorporates Bovine Growth Hormone into his troop's meals to accelerate training."
  sicko_mode:0 "Sicko Mode"
  sicko_mode_desc:0 "Jacob's troops go Sicko Mode"
- declare_usa:0 "Invade America"
- declare_usa_desc:0 "Jacob's industry needs more space to grow."
- naval_boost:0 "Take the Seas"
- naval_boost_desc:0 "To take the land, Jacob must first take the seas."

@@ -1,6 +1,6 @@
-﻿capital = 388
+capital = 365
 
-#OOB = "ALB_1936"
+#oob = "USA_1936"
 
 set_research_slots = 4
 set_technology = {
@@ -37,11 +37,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 80
+			popularity = 0
 		}
 
 		fascism = {
-			popularity = 20
+			popularity = 100
 		}
 		
 		communism = {
@@ -53,7 +53,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = fascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -62,33 +62,11 @@ set_politics = {
 set_convoys = 5
 
 create_country_leader = {
-	name = "Jacob"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Montana_Leader.dds"
+	name = "Edgar Hoover"
+	picture = "Republic of Old America fascist leader.dds"
 	expire = "1965.1.1"
-	ideology = Liberalism
+	ideology = Nazism
 	traits = {
 		#
 	}
 }
-
-create_country_leader = {
-    name = "King jacob of 5 hour energy"
-    picture = "Montana_fascist_Leader.dds"
-    expire = "1965.1.1"
-    ideology = Nazism
-    traits = {
-        #
-    }
-}       
-#create_field_marshal = {
-#	name = "Xhemal Aranitasi"
-#	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-#	traits = { }
-#	skill = 2
-#	attack_skill = 1
-#    defense_skill = 3
-#    planning_skill = 2
-#    logistics_skill = 1
-#}
-

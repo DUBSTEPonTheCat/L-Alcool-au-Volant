@@ -1,0 +1,33 @@
+add_namespace = ROA
+
+news_event = {
+	id = ROA.1
+	title = ROA.1.t
+	desc = ROA.1.d
+	picture = GFX_news_event_nuke 
+	major = no
+
+	is_triggered_only = no
+
+	trigger = {
+	   tag = ROA
+	   date > 1.1.1
+	   date < 1.1.5	
+
+	    }   
+    }
+
+	hidden = no
+
+	fire_only_once = yes
+
+		}
+		news_event = { id = ROA.beginnings days = 1 }
+	}
+	
+	option = { 
+		name = Okay
+		ai_chance = { factor = 100 }
+        }
+	}
+}
