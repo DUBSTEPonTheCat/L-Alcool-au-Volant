@@ -58,7 +58,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		
-		cost = 5
+		cost = 1
 
 		available_if_capitulated = yes
 
@@ -74,7 +74,7 @@ focus_tree = {
 		x = 1
 		y = 3
 		
-		cost = 5
+		cost = 2
 
 		available_if_capitulated = yes
 
@@ -90,7 +90,7 @@ focus_tree = {
 		x = 1
 		y = 4
 		
-		cost = 5
+		cost = 2
 
 		available_if_capitulated = yes
 
