@@ -47,6 +47,7 @@ focus_tree = {
 			target = CAN 
 			transfer_troops = yes
 		}
+			news_event = { id = news.992 }
 		}
 	}
 
@@ -119,6 +120,7 @@ focus_tree = {
 					target = USA
 					generator = { 375 }
 				}
+				news_event = { id = news.993 }
 			}
 		}
 		

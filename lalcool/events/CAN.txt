@@ -23,6 +23,41 @@ country_event = {
 		name = We have failed them
 		ai_chance = { factor = 100 }
 		annex_country = { target = ENG transfer_troops = yes }
+		news_event = { id = news.995 }
 		}
 	}
-}
+country_event = {
+	id = CAN.2
+	title = CAN.2.t
+	desc = CAN.2.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = no
+
+	trigger = {
+	   tag = CAN
+	   AND = {
+	       date > 1936.6.2
+	       date < 1936.6.11
+	    }
+	}       
+
+	mean_time_to_happen = {days = 1
+	}
+
+	option = { 
+		name = A new future for the commonwealth!
+		ai_chance = { factor = 100 }
+		release = POR
+		release = CHI
+		release = PRC
+		release = EGY
+		release = PAL
+		release = JOR
+		release = BOT
+		release = ZIM
+		release = KEN
+		release = YEM
+		news_event = { id = news.996 }
+		}
+	}
