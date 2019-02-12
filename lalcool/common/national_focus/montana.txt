@@ -47,7 +47,6 @@ focus_tree = {
 			target = CAN 
 			transfer_troops = yes
 		}
-			news_event = { id = news.992 }
 		}
 	}
 
@@ -58,7 +57,7 @@ focus_tree = {
 		x = 1
 		y = 2
 		
-		cost = 1
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -74,7 +73,7 @@ focus_tree = {
 		x = 1
 		y = 3
 		
-		cost = 2
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -90,7 +89,7 @@ focus_tree = {
 		x = 1
 		y = 4
 		
-		cost = 2
+		cost = 5
 
 		available_if_capitulated = yes
 
@@ -120,7 +119,6 @@ focus_tree = {
 					target = USA
 					generator = { 375 }
 				}
-				news_event = { id = news.993 }
 			}
 		}
 		

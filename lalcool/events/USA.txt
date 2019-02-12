@@ -23,7 +23,6 @@ country_event = {
 		name = OhShit
 		ai_chance = { factor = 100 }
 		release = JAC
-		news_event = { id = news.991 }
 		}
 	}
 }

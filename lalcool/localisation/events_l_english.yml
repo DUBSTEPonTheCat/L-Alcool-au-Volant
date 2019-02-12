@@ -3096,40 +3096,9 @@
  canada_vanilla.1.desc:0 "Around a million Canadian women entered the workforce during the Second World War. They were represented in the national media by a symbol of resilience and patriotism: Veronica Foster, popularly known as Ronnie, the Bren Gun Girl. She worked for John Inglis and Company at a Toronto gun factory while her three brothers fought overseas. The posters and short movies featuring her, and women like her, participating in the war effort likely inspired the better-known media campaign around 'Rosie the Riveter', after America's entry into the war."
  canada_vanilla.1.opt:0 "'Factory work is no more difficult than housework', as the newsreels say."
  ########################################
- #USA
  USA.1.a:0 "Here Comes Jacob" 
- USA.1.d:0 "Jacob bout to clap yo asses"
- USA.1.t:0 "Here Comes Jacob"
- 
- #ROA
+  USA.1.d:0 "Jacob bout to clap yo asses"
+  USA.1.t:0 "Here Comes Jacob"
  ROA.1.a:0 "Republic of Old America beginnings"
  ROA.1.t:0 "Republic of Old America's current situation"
- ROA.1.d:0 "Still recovering from war with the communist north, whilst winning independence but still lost a significant amount of land and men. The turning point of the war was after the fall of Atlanta. The fall of Atlanta stiffened the resolve of and pushed the communists to the rough border of Mississippi and the southern border of North Carolina and Tennessee."
- 
- #
- 
- #NEWS
- news.991.t:0 "Montana declares Independence"
- news.991.d:0 "Jacob has taken control of the Montana State Government and declared his sovereignty from the United States."
- news.991.a:0 "It will be end by Valentines Day."
- 
- news.992.t:0 "King Jacob Annexes Canada"
- news.992.d:0 "King Jacob armies have marched into Canada unannounced. When the Canadian government appealed to the Crown, they recieved no response and were forced to give in to King Jacob's demands."
- news.992.a:0 "F"
- 
- news.993.t:0 "King Jacob demands the United States"
- news.993.d:0 "L'Alcool Au Volant issued an ultimatum to the United States."
- news.993.a:0 "King Jacob has overstepped his bounds."
- 
- news.994.t:0 "Newfoundland Made Canadian"
- news.994.d:0 "Under pressure from Canadian refugees and the Canadian Government in Exile, Newfoundland was granted to Canada."
- news.994.a:0 "A Happy ending."
- 
- news.995.t:0 "Canada seizes the British Empire"
- news.995.d:0 "Submitting to demands of her colonies to take back Canada, the British government collapsed, allowing Canada to seize control."
- news.995.a:0 "This has gotten out of hand."
- 
- news.996.t:0 "Canada dismantles the Empire"
- news.996.d:0 "After weeks of beaurocracy, it has been decided that the Isle will stay under the control of Canada and the Empire be dismantled."
- news.996.a:0 "And they all lived happily ever after."
- 
+ ROA.1.d:0 "Still recovering from war with the communist north, whilst winning independence but still lost a significant amount of land and men. The turning point of the war was after the fall of Atlanta. The fall of Atlanta stiffened the resolve of  and pushed the communists to the rough border of Mississippi and the southern border of North Carolina and Tennessee."

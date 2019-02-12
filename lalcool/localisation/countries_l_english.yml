@@ -1377,44 +1377,5 @@
  FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
  FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
  #######################################
- #Montana
  JAC_democratic:0 "Montana"
- JAC_fascism:0 "L'Alcool Au Volant"
- JAC_neutrality:0 "Montana"
- JAC_communism:0 "Montana"
- JAC_fascism_ADJ:2 "Jacobin"
- JAC_democratic_ADJ:0 "Montanian"
- JAC_neutrality_ADJ:0 "Montanian"
- JAC_communism_ADJ:0 "Montanian"
- 
  ROA_fascism:0 "Republic of Old America"
- 
- #France
- FRA_fascism:2 "Nation Française"
- FRA_democratic:0 "Baguette Republic"
- FRA_neutrality:0 "Bourbon France"
- FRA_communism:0 "French Commune"
- FRA_fascism_ADJ:2 "French"
- FRA_democratic_ADJ:0 "French"
- FRA_neutrality_ADJ:0 "French"
- FRA_communism_ADJ:0 "French"
- 
- #Ireland
- IRE_fascism:0 "Resurrectionist Ireland"
- IRE_democratic:0 "Ireland"
- IRE_neutrality:0 "Free Ireland"
- IRE_communism:0 "People's Country"
- IRE_fascism_ADJ:0 "Irish"
- IRE_democratic_ADJ:0 "Irish"
- IRE_neutrality_ADJ:0 "Irish"
- IRE_communism_ADJ:0 "Irish"
- 
- #Rhodesia
- RHO_fascism:0 "Rhodesia"
- RHO_democratic:0 "Rhodesia"
- RHO_neutrality:0 "Rhodesia"
- RHO_communism:0 "Rhodesia"
- RHO_fascism_ADJ:0 "Rhodesian"
- RHO_democratic_ADJ:0 "Rhodesian"
- RHO_neutrality_ADJ:0 "Rhodesian"
- RHO_communism_ADJ:0 "Rhodesian"

@@ -23,7 +23,6 @@ country_event = {
 		name = Appease the Empire
 		ai_chance = { factor = 100 }
 		release = CAN
-		news_event = { id = news.994 }
 		}
 	}
 }
