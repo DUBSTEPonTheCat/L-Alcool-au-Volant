@@ -1,4 +1,4 @@
-﻿capital = 545
+apital = 545
 
 #oob = "ZIM_1936"
 
