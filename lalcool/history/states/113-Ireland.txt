@@ -11,7 +11,7 @@ state={
 	state_category = city
 	
 	history={
-		owner = PPL
+		owner = PPC
 		victory_points = {
 			11293 5 
 		}
@@ -24,8 +24,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = PPL
-	}
+		add_core_of = PPC
 
 	provinces={
 		285 303 369 3342 3359 7377 11293 11303 

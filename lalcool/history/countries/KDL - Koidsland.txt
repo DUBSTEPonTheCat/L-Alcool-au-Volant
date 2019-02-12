@@ -46,15 +46,15 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 70
 		}
 
 		fascism = {
-			popularity = 100
+			popularity = 20
 		}
 		
 		communism = {
-			popularity = 0
+			popularity = 10
 		}
 		
 		neutrality = { 
@@ -62,7 +62,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
@@ -71,12 +71,10 @@ set_politics = {
 set_convoys = 5
 
 create_country_leader = {
-	name = "Adolf Hitler"
+	name = "Connor"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "Portrait_Germany_Adolf_Hitler.dds"
 	expire = "1965.1.1"
-	ideology = nazism
-	traits = {
-		dictator
+	ideology = liberalism
 	}
 }
