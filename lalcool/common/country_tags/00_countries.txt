@@ -114,3 +114,6 @@ MAN = "countries/Manchukou.txt"
 ###################################
 JAC = "countries/Montana.txt"
 ROA = "countries/Republic of Old America.txt"
+RHO = "countries/Rhodesia.txt"
+KDL = "countries/Koidsland.txt"
+PPC = "counries/People Country.txt"

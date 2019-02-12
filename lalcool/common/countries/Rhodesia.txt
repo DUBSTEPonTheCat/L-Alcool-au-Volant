@@ -1,6 +1,5 @@
 
-
 graphical_culture = african_gfx
 graphical_culture_2d = commonwealth_2d
 
-color = { 0  0 0 }
+color = { 0 100 0 }

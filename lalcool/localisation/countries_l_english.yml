@@ -1368,7 +1368,7 @@
  FACTION_NAME_COMMUNIST_5:0 "The $LEADER_COUNTRY_ADJ$ Bloc"
  FACTION_NAME_FASCIST_1:0 "Brotherhood of $CONTINENT$"
  FACTION_NAME_FASCIST_2:0 "$CONTINENT_ADJ$ Group"
- FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"
+ FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"  
  FACTION_NAME_FASCIST_4:0 "The $CONTINENT$ Confederacy"
  FACTION_NAME_FASCIST_5:0 "$CONTINENT_ADJ$ Confederation"
  FACTION_NAME_NONALIGNED_1:0 "$CONTINENT_ADJ$ Defense League"
@@ -1378,4 +1378,8 @@
  FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
  #######################################
  JAC_democratic:0 "Montana"
+ JAC_fascism:0 "L'Alcool Au Volant"
  ROA_fascism:0 "Republic of Old America"
+ PPC_communism:0 "People Country"
+ KDL_democratic:0 "Koidsland"
+ RHO_fascism:0 "Rhodesia"
