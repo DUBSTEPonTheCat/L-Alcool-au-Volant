@@ -1,6 +1,5 @@
 
-state=
-{
+state={
 	id=134
 	name="STATE_134"
 	manpower = 667100
@@ -9,11 +8,12 @@ state=
 
 	history=
 	{
-		owner = PPC
+		owner = IRA
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = PPC
+		add_core_of = IRA
+	}
 
 	provinces=
 	{

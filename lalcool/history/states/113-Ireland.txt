@@ -11,7 +11,7 @@ state={
 	state_category = city
 	
 	history={
-		owner = PPC
+		owner = IRA
 		victory_points = {
 			11293 5 
 		}
@@ -24,7 +24,8 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = PPC
+		add_core_of = IRA
+	}
 
 	provinces={
 		285 303 369 3342 3359 7377 11293 11303 
