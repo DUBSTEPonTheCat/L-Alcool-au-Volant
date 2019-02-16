@@ -23,6 +23,6 @@ country_event = {
 		name = We have failed them
 		ai_chance = { factor = 100 }
 		annex_country = { target = ENG transfer_troops = yes }
+		news_event = { id = news.995 }
 		}
 	}
-}

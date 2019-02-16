@@ -1,15 +1,19 @@
-add_namespace = ENG
+﻿###########################
+# French Events
+###########################
+
+add_namespace = france
 
 country_event = {
-	id = ENG.1
-	title = ENG.1.t
-	desc = ENG.1.d
+	id = FRA.1
+	title = FRA.1.t
+	desc = FRA.1.d
 	picture = GFX_report_event_japanese_transport_soldiers
 	
 	is_triggered_only = no
 
 	trigger = {
-	   tag = ENG
+	   tag = FRA
 	   AND = {
 	       date > 1936.5.2
 	       date < 1936.5.11
@@ -20,10 +24,9 @@ country_event = {
 	}
 
 	option = { 
-		name = Appease the Empire
+		name = 
 		ai_chance = { factor = 100 }
-		release = CAN
-		news_event = { id = news.994 }
+		
 		}
-	}
+		}
 }
