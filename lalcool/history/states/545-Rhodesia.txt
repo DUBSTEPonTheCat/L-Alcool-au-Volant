@@ -1,18 +1,20 @@
 state={
 	id=545
 	
-	state_category = rural
+	state_category = megalopolis
 	
 	name="STATE_545"
 	resources={
-		chromium=35 # was: 64.000
-		tungsten=8 # was: 16.000
+		chromium=54 # was: 64.000
+		tungsten=50 # was: 16.000
 	}
 
 	history={
 		owner = RHO
 		buildings = {
-			infrastructure = 3
+			infrastructure = 10
+			arms_factory = 5
+			industrial_complex = 7
 
 		}
 		victory_points = {
