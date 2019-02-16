@@ -107,7 +107,7 @@ focus_tree = {
 		
 		available = {
 			is_puppet = no
-			has_army_manpower = { size > 1000000 }
+			has_army_manpower = { size > 500000 }
 		}
 		cost = 1
 

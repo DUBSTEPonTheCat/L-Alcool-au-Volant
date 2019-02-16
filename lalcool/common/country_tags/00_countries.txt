@@ -117,3 +117,14 @@ ROA = "countries/Republic of Old America.txt"
 RHO = "countries/Rhodesia.txt"
 KDL = "countries/Koidsland.txt"
 IRA = "countries/People Country.txt"
+
+#"countries/.txt"
+
+#Africa
+ALG = "countries/Algeria.txt"
+GAB = "countries/Gabon.txt"
+GHA = "countries/Ghana.txt"
+MAD = "countries/Madagascar.txt"
+MOR ="countries/Morocco.txt"
+NIG = "countries/Nigeria.txt"
+SUD = "countries/Sudan.txt"
