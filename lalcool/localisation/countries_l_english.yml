@@ -1368,7 +1368,7 @@
  FACTION_NAME_COMMUNIST_5:0 "The $LEADER_COUNTRY_ADJ$ Bloc"
  FACTION_NAME_FASCIST_1:0 "Brotherhood of $CONTINENT$"
  FACTION_NAME_FASCIST_2:0 "$CONTINENT_ADJ$ Group"
- FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"  
+ FACTION_NAME_FASCIST_3:0 "The $CONTINENT_ADJ$ League"
  FACTION_NAME_FASCIST_4:0 "The $CONTINENT$ Confederacy"
  FACTION_NAME_FASCIST_5:0 "$CONTINENT_ADJ$ Confederation"
  FACTION_NAME_NONALIGNED_1:0 "$CONTINENT_ADJ$ Defense League"
@@ -1377,9 +1377,92 @@
  FACTION_NAME_NONALIGNED_4:0 "Confederate $CONTINENT_ADJ$ Nations"
  FACTION_NAME_NONALIGNED_5:0 "The $LEADER_COUNTRY$ Coalition"
  #######################################
+ #Montana
  JAC_democratic:0 "Montana"
  JAC_fascism:0 "L'Alcool Au Volant"
+ JAC_neutrality:0 "Montana"
+ JAC_communism:0 "Montana"
+ JAC_fascism_ADJ:2 "Jacobin"
+ JAC_democratic_ADJ:0 "Montanian"
+ JAC_neutrality_ADJ:0 "Montanian"
+ JAC_communism_ADJ:0 "Montanian"
+ 
  ROA_fascism:0 "Republic of Old America"
- KDL_democratic:0 "Koidsland"
+ 
+ #France
+ FRA_fascism:2 "Nation Française"
+ FRA_democratic:0 "Baguette Republic"
+ FRA_neutrality:0 "Bourbon France"
+ FRA_communism:0 "French Commune"
+ FRA_fascism_ADJ:2 "French"
+ FRA_democratic_ADJ:0 "French"
+ FRA_neutrality_ADJ:0 "French"
+ FRA_communism_ADJ:0 "French"
+ 
+ #Ireland
+ IRE_fascism:0 "Resurrectionist Ireland"
+ IRE_democratic:0 "Ireland"
+ IRE_neutrality:0 "Free Ireland"
+ IRE_communism:0 "People's Country"
+ IRE_fascism_ADJ:0 "Irish"
+ IRE_democratic_ADJ:0 "Irish"
+ IRE_neutrality_ADJ:0 "Irish"
+ IRE_communism_ADJ:0 "Irish"
+ 
+ #Rhodesia
  RHO_fascism:0 "Rhodesia"
- IRA_communism:0 "People Country"
+ RHO_democratic:0 "Rhodesia"
+ RHO_neutrality:0 "Rhodesia"
+ RHO_communism:0 "Rhodesia"
+ RHO_fascism_ADJ:0 "Rhodesian"
+ RHO_democratic_ADJ:0 "Rhodesian"
+ RHO_neutrality_ADJ:0 "Rhodesian"
+ RHO_communism_ADJ:0 "Rhodesian"
+ 
+ #Algeria
+ ALG_fascism:0 "Algeria"
+ ALG_democratic:0 "Algeria"
+ ALG_neutrality:0 "Algeria"
+ ALG_communism:0 "Algeria"
+ 
+ #Morocco
+ MOR_fascism:0 "Morocco"
+ MOR_democratic:0 "Morocco"
+ MOR_neutrality:0 "Morocco"
+ MOR_communism:0 "Morocco"
+ 
+ #Gabon
+ GAB_fascism:0 "Gabon"
+ GAB_democratic:0 "Gabon"
+ GAB_neutrality:0 "Gabon"
+ GAB_communism:0 "Gabon"
+ 
+ #Ghana
+ GHA_fascism:0 "Ghana"
+ GHA_democratic:0 "Ghana"
+ GHA_neutrality:0 "Ghana"
+ GHA_communism:0 "Ghana"
+ 
+ #Madagascar
+ MAD_fascism:0 "Madagascar"
+ MAD_democratic:0 "Madagascar"
+ MAD_neutrality:0 "Madagascar"
+ MAD_communism:0 "Madagascar"
+ 
+ #Morocco
+ MOR_fascism:0 "Morocco"
+ MOR_democratic:0 "Morocco"
+ MOR_neutrality:0 "Morocco"
+ MOR_communism:0 "Morocco"
+ 
+ #Nigeria
+ NIG_fascism:0 "Nigeria"
+ NIG_democratic:0 "Nigeria"
+ NIG_neutrality:0 "Nigeria"
+ NIG_communism:0 "Nigeria"
+ 
+ #Sudan
+ SUD_fascism:0 "Sudan"
+ SUD_democratic:0 "Sudan"
+ SUD_neutrality:0 "Sudan"
+ SUD_communism:0 "Sudan"
