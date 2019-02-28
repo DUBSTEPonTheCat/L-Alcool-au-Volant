@@ -1400,14 +1400,14 @@
  FRA_communism_ADJ:0 "French"
  
  #Ireland
- IRE_fascism:0 "Resurrectionist Ireland"
- IRE_democratic:0 "Ireland"
- IRE_neutrality:0 "Free Ireland"
- IRE_communism:0 "People's Country"
- IRE_fascism_ADJ:0 "Irish"
- IRE_democratic_ADJ:0 "Irish"
- IRE_neutrality_ADJ:0 "Irish"
- IRE_communism_ADJ:0 "Irish"
+ IRA_fascism:0 "Resurrectionist Ireland"
+ IRA_democratic:0 "Ireland"
+ IRA_neutrality:0 "Free Ireland"
+ IRA_communism:0 "People's Country"
+ IRA_fascism_ADJ:0 "Irish"
+ IRA_democratic_ADJ:0 "Irish"
+ IRA_neutrality_ADJ:0 "Irish"
+ IRA_communism_ADJ:0 "Irish"
  
  #Rhodesia
  RHO_fascism:0 "Rhodesia"
@@ -1466,3 +1466,12 @@
  SUD_democratic:0 "Sudan"
  SUD_neutrality:0 "Sudan"
  SUD_communism:0 "Sudan"
+
+ KDL_fascism:0 "Doggo Land"
+ KDL_democratic:0 "Koidsland"
+ KDL_neutrality:0 "Retard Land"
+ KDL_communism:0 "No Bread Land"
+ KDL_fascism_ADJ:0 "Doggo"
+ KDL_democratic_ADJ:0 "Koids"
+ KDL_neutrality_ADJ:0 "Retard"
+ KDL_communism_ADJ:0 "No Bread"
